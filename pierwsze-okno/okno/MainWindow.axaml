@@ -11,7 +11,7 @@
 
 >
       <TextBlock Text="Edward Gierek (ur. 6 stycznia 1913 w Porąbce, zm. 29 lipca 2001 w Cieszynie) – polski robotnik i polityk komunistyczny, w latach 1970–1980 I sekretarz Komitetu Centralnego Polskiej Zjednoczonej Partii Robotniczej, w latach 1971–1981 członek prezydium Ogólnopolskiego Komitetu Frontu Jedności Narodu, w latach 1976–1980 członek Rady Państwa, poseł na Sejm PRL I, II, III, IV, V, VI, VII i VIII kadencji."
-
+ FontSize="40" 
    />
 
    
