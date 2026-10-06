@@ -8,6 +8,6 @@
          Width="1000"
         Height="700"
  WindowStartupLocation="CenterScreen"
- CanResize="False"
+WindowState="Maximized"
 >
 </Window>
